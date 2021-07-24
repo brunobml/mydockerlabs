@@ -4,6 +4,12 @@ From a compose.yml file docker translate it to Cloudformation to deploy the solu
 
 [ecs-cli-tutorial-fargate](https://docs.aws.amazon.com/AmazonECS/latest/developerguide/ecs-cli-tutorial-fargate.html "I used this tutorial to copy the compose.yml file")
 
+
+[docker-compose-from-local-to-amazon-ecs](https://www.docker.com/blog/docker-compose-from-local-to-amazon-ecs/ "This is similar to my lab")
+
+
+
+
 #### Docker Context ECS
 
 ```bash
